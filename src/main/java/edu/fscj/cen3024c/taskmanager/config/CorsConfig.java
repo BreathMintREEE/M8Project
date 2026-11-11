@@ -1,6 +1,6 @@
 // CorsConfig.java
 // Global CORS configuration per Module 6 instructions
-// This is a test for automation
+// This is a test for automation part 2
 
 package edu.fscj.cen3024c.taskmanager.config;
 
